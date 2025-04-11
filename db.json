@@ -121,6 +121,7 @@
     }
   ],
 
+  
   "notes": [
     {
       "id": 1,
@@ -151,8 +152,60 @@
       "modifiedAt": "2025-04-13T09:00:00Z",
       "tags": "urgent,project",
       "color": "#66BB6A"
+    },
+    {
+      "id": 4,
+      "title": "Ghi chú mẫu 4",
+      "content": "Nội dung của ghi chú mẫu 4",
+      "priority": 1,
+      "createdAt": "2025-04-14T07:45:00Z",
+      "modifiedAt": "2025-04-14T08:00:00Z",
+      "tags": "study,low-priority",
+      "color": "#FFEE58"
+    },
+    {
+      "id": 5,
+      "title": "Ghi chú mẫu 5",
+      "content": "Nội dung của ghi chú mẫu 5",
+      "priority": 2,
+      "createdAt": "2025-04-15T10:30:00Z",
+      "modifiedAt": "2025-04-15T11:00:00Z",
+      "tags": "medium-priority,work",
+      "color": "#AB47BC"
+    },
+    {
+      "id": 6,
+      "title": "Ghi chú mẫu 6",
+      "content": "Nội dung của ghi chú mẫu 6",
+      "priority": 3,
+      "createdAt": "2025-04-16T09:00:00Z",
+      "modifiedAt": "2025-04-16T10:00:00Z",
+      "tags": "urgent,deadline",
+      "color": "#42A5F5"
+    },
+    {
+      "id": 7,
+      "title": "Ghi chú mẫu 7",
+      "content": "Nội dung của ghi chú mẫu 7 với độ ưu tiên thấp",
+      "priority": 1,
+      "createdAt": "2025-04-17T13:00:00Z",
+      "modifiedAt": "2025-04-17T13:30:00Z",
+      "tags": "low-priority,personal",
+      "color": "#66BB6A"
+    },
+    {
+      "id": 8,
+      "title": "Ghi chú mẫu 8",
+      "content": "Nội dung của ghi chú mẫu 8 với dự án khẩn cấp",
+      "priority": 3,
+      "createdAt": "2025-04-18T08:00:00Z",
+      "modifiedAt": "2025-04-18T08:30:00Z",
+      "tags": "urgent,project",
+      "color": "#FF7043"
     }
   ]
+
+
 
 
   
